@@ -3,7 +3,7 @@
 ## Task 3: Cats vs Dogs Image Classification Using SVM
 
 ### Project Overview
-This project builds an image classification model to distinguish between cat and dog images using image preprocessing, Principal Component Analysis (PCA), and a Support Vector Machine (SVM).
+This project builds an image classification model to distinguish between cat and dog images using image preprocessing, Principal Component Analysis (PCA), and a Support Vector Machine (SVM). 
 
 ### Objective
 - Load and preprocess cat and dog images.
