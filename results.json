@@ -1,0 +1,7 @@
+{
+    "algorithm": "Support Vector Machine (LinearSVC)",
+    "image_size": "32x32 RGB",
+    "training_images": 800,
+    "testing_images": 200,
+    "accuracy_percent": 51.5
+}
